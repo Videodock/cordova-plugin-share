@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-share",
+  "version": "0.2.0",
+  "cordova": {
+    "id": "cordova-plugin-share",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/videodock/cordova-plugin-share.git"
+  }
+}
